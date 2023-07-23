@@ -57,9 +57,9 @@ BEGIN
            y := y + 1;
         delay(50);
         clrscr;
-        plot(image, x, y);
+        plot(image, x, y)
     end;
     
-    readln;
+    readln
 END.
 
