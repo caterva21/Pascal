@@ -54,8 +54,15 @@ BEGIN
             's': y := y + 1
         end;
         clrscr;
+<<<<<<< HEAD
         plot(image, x, y);
         delay(50)
     end
+=======
+        plot(image, x, y)
+    end;
+    
+    readln
+>>>>>>> 29b9a8d11090e395138bb184868491c32a3ba25f
 END.
 
