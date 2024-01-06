@@ -1,9 +1,8 @@
-Program linked_list;
 {* @brief This program is a simple example of a linked_list.
  * @details This program creates a linked_list of 5 nodes and prints the_list.
  * @date 04/01/2024
  * @version 1.0}
-
+Program linked_list;
 uses crt;
 type
  node_linker = ^node;

@@ -1,9 +1,9 @@
-program crud_linked_list;
 {* @brief CRUD operations on a linked_list.
  * @details This program implements CRUD operations on a linked_list.
  * @file crud_linked_list.pas
  * @date 05/01/2014
  * @version 1.0}
+program crud_linked_list;
 uses crt;
 type
   node_linker = ^node;
