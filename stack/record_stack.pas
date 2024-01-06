@@ -1,7 +1,7 @@
-{*@brief Implementasi stack dengan record
- *@file record_stack.pas
- *@date 06/01/2024
- *@version 1.0}
+{@brief Implementasi stack dengan record
+ @file record_stack.pas
+ @date 06/01/2024
+ @version 1.0}
 
 program record_stack;
 const 

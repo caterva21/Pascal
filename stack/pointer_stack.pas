@@ -1,7 +1,7 @@
-{ @brief implementasi stack dengan node_linker
-  @file pointer_stack.pas
-  @date 06/01/2024
-  @version 1.0}
+{@brief implementasi stack dengan node linker
+ @file pointer_stack.pas
+ @date 06/01/2024
+ @version 1.0}
 program pointer_stack;
 type
  fuit_name = string[20];

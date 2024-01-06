@@ -1,7 +1,7 @@
-{* @brief This program is a simple example of a linked_list.
- * @details This program creates a linked_list of 5 nodes and prints the_list.
- * @date 04/01/2024
- * @version 1.0}
+{@brief This program is a simple example of a linked_list.
+ @details This program creates a linked_list of 5 nodes and prints the_list.
+ @date 04/01/2024
+ @version 1.0}
 Program linked_list;
 uses crt;
 type
@@ -10,6 +10,7 @@ type
     data : integer;
     next : node_linker;
   end;
+  
 procedure initialize_list(var head, tail : node_linker);
 begin
     new(head);
